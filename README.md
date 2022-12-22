@@ -1,0 +1,1 @@
+<p>Projeto desenvolvido seguindo os estudos do canal <b>Matheus Battisti - Hora de Codar</b>  ( https://www.youtube.com/@MatheusBattisti ) onde é realizado um buscador de usuários no github a partir de sua API.</p>
